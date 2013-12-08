@@ -1,0 +1,20 @@
+<div class="container">
+
+
+</div>
+
+<div>
+
+<p>
+This isn't in the shadow root.
+</p>
+
+</div>
+
+<script>
+
+	var host = document.querySelector('.container');
+	var root = host.createShadowRoot();
+	root.innerHTML = "<p> Sheeeit, no one can see <strong>this</strong>.</p>" 
+
+</script>

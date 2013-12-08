@@ -1,0 +1,18 @@
+		.hero-unit {
+				background-color: #1c7ade;
+				opacity: 0.9;
+				
+				#1d82ab
+				
+						.navbar-inner {
+						background: rgb(47,135,170); /* Old browsers */
+						background: -moz-linear-gradient(top, rgba(47,135,170,1) 2%, rgba(0,122,170,1) 100%); /* FF3.6+ */
+						background: -webkit-gradient(linear, left top, left bottom, color-stop(2%,rgba(47,135,170,1)), color-stop(100%,rgba(0,122,170,1))); /* Chrome,Safari4+ */
+						background: -webkit-linear-gradient(top, rgba(47,135,170,1) 2%,rgba(0,122,170,1) 100%); /* Chrome10+,Safari5.1+ */
+						background: -o-linear-gradient(top, rgba(47,135,170,1) 2%,rgba(0,122,170,1) 100%); /* Opera 11.10+ */
+						background: -ms-linear-gradient(top, rgba(47,135,170,1) 2%,rgba(0,122,170,1) 100%); /* IE10+ */
+						background: linear-gradient(to bottom, rgba(47,135,170,1) 2%,rgba(0,122,170,1) 100%); /* W3C */
+						filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f87aa', endColorstr='#007aaa',GradientType=0 ); /* IE6-9 */
+					}
+					
+					background-color: #256ab3;
